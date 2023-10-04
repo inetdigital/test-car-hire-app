@@ -34,3 +34,6 @@ npm test
 - Expand Test Coverage
 - Accessibility considerations
 - UI/UX Enhancements
+
+- Add loader screen, component or overlay between actions
+- Style form items, add other required fields, provide form validation and handler
