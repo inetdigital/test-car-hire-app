@@ -1,0 +1,7 @@
+/* src/styles/theme.css */
+:root {
+    --primary-color: #4CAF50;
+    --secondary-color: #919191;
+    --white-color: #fff;
+    --error-color: #f44336;
+}
